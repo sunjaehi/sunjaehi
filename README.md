@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning
-- 🖥️ I want to work as a Front-end developer
+- 🖥️ I want to work as a developer
 - 📫 How to reach me: @sunjaehi
 
 **I've used**
