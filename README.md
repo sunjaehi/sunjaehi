@@ -4,13 +4,6 @@
 **Sunjaehi** 
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/sunjaehi"
-    width="600"
-    height="120"
-  />
-</a>
   
 
 Here are some ideas to get you started:
